@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 Tool stack 🛠</h3>
+<h3 align="center">🛠 Tool Stack 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp
@@ -64,3 +64,5 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeunHan&layout=compact)
