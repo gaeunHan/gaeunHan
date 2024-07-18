@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Code%20Composer%20Studio-3E8EDE.svg?style=for-the-badge&logo=ti&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Microchip%20Studio-1F2952.svg?style=for-the-badge&logo=microchip&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Keil%20Studio%20Cloud-4D4D4D.svg?style=for-the-badge&logo=armkeil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mbed-008F8C.svg?style=for-the-badge&logo=arm&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
