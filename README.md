@@ -62,6 +62,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
+
 </div>
 
 <br>
