@@ -26,8 +26,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CORTEX--M-007396.svg?style=for-the-badge&logo=ARM&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AVR-808080.svg?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mbed-008F8C.svg?style=for-the-badge&logo=arm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AVR-808080.svg?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp  
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MSP430-343434.svg?style=for-the-badge&logo=Texas%20Instruments&logoColor=white" />&nbsp
@@ -58,7 +59,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Code%20Composer%20Studio-3E8EDE.svg?style=for-the-badge&logo=ti&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Microchip%20Studio-1F2952.svg?style=for-the-badge&logo=microchip&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Keil%20Studio%20Cloud-4D4D4D.svg?style=for-the-badge&logo=armkeil&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mbed-008F8C.svg?style=for-the-badge&logo=arm&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
