@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=Mathworks&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SIMULINK-0076A8.svg?style=for-the-badge&logo=Mathworks&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Code%20Composer%20Studio-3E8EDE.svg?style=for-the-badge&logo=ti&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CCSTUDIO-003366.svg?style=for-the-badge&logo=Texas%20Instruments&logoColor=white" />
   <img src="https://img.shields.io/badge/Microchip%20Studio-1F2952.svg?style=for-the-badge&logo=microchip&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Keil%20Studio%20Cloud-4D4D4D.svg?style=for-the-badge&logo=armkeil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" />&nbsp
