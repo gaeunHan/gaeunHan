@@ -33,6 +33,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MSP430-343434.svg?style=for-the-badge&logo=Texas%20Instruments&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C6000%20DSP-0078D6.svg?style=for-the-badge&logo=Texas%20Instruments&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/EtherCAT-FF0000?style=for-the-badge&logo=ethercat&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/RT%20Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
+
+
 </div>
 
 <br>
